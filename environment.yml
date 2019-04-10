@@ -1,0 +1,9 @@
+name: swc-python-env
+channels:
+    - conda-forge
+dependencies:
+    - numpy
+    - scipy
+    - pandas
+    - matplotlib
+
